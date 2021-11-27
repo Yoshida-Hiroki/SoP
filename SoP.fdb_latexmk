@@ -1,18 +1,14 @@
 # Fdb version 3
-["dvipdf"] 1637028538 "SoP.dvi" "SoP.pdf" "SoP" 1637028541
-  "SoP.dvi" 1637028538 1672 696325acad9deb5fd86208f020d03eb5 "latex"
+["dvipdf"] 1637997259 "SoP.dvi" "SoP.pdf" "SoP" 1637997261
+  "SoP.dvi" 1637997259 7552 4b9df1966d13c64e3737181e59917263 "latex"
   (generated)
   "SoP.pdf"
-["latex"] 1637028536 "SoP.tex" "SoP.dvi" "SoP" 1637028540
-  "SoP.aux" 1637028538 477 f8d081d02a19e65bebb7dd321644625b "latex"
-  "SoP.tex" 1637028535 1047 527abd265805625e30c6a2d2f2b01408 ""
+["latex"] 1637997256 "SoP.tex" "SoP.dvi" "SoP" 1637997261
+  "SoP.aux" 1637997259 32 044b7f8fc9779af7531264e0c5c84b6d "latex"
+  "SoP.tex" 1637997252 6572 8f2850ccdf7ed38e072eb199c1414860 ""
   "c:/w32tex/share/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
-  "c:/w32tex/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1349595399 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
-  "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1519818042 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1519818042 1196 1be730212205a270378fba11a44765dc ""
-  "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1519818042 856 7404843a5f798859944d7973a47821d5 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1519818042 856 39c171483fe1bb7d0e1368980c0c205b ""
-  "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -23,8 +19,13 @@
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "c:/w32tex/share/texmf-dist/tex/generic/iftex/iftex.sty" 1583494600 6501 4011d89d9621e0b0901138815ba5ff29 ""
+  "c:/w32tex/share/texmf-dist/tex/generic/iftex/ifvtex.sty" 1583494600 1057 525c2192b5febbd8c1f662c9468335bb ""
   "c:/w32tex/share/texmf-dist/tex/latex/base/article.cls" 1610091946 20145 aad8c3dd3bc36e260347b84002182bc2 ""
   "c:/w32tex/share/texmf-dist/tex/latex/base/size10.clo" 1610091946 8449 a72d5d4e612221b46000c3d71724e0ef ""
+  "c:/w32tex/share/texmf-dist/tex/latex/geometry/geometry.cfg" 1578005121 1070 7ac475a4e3466b0b43e138e9356bda83 ""
+  "c:/w32tex/share/texmf-dist/tex/latex/geometry/geometry.sty" 1578005121 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "c:/w32tex/share/texmf-dist/tex/latex/graphics/keyval.sty" 1601535014 2590 e3b24ff953e5b58d924f163d25380312 ""
   "c:/w32tex/share/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1616057734 33684 1ea177219ce380b3f1b75a786a0b24e7 ""
   "c:/w32tex/share/texmf-dist/web2c/eptex/platex.fmt" 1616638296 2717141 f9bc1297a54f8691f224ad9b4cfed37f ""
   "c:/w32tex/share/texmf-dist/web2c/texmf.cnf" 1616456562 36800 18728b2d981a60d248b22f7103aa990e ""
