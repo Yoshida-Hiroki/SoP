@@ -1,14 +1,18 @@
 # Fdb version 3
-["dvipdf"] 1637997259 "SoP.dvi" "SoP.pdf" "SoP" 1637997261
-  "SoP.dvi" 1637997259 7552 4b9df1966d13c64e3737181e59917263 "latex"
+["dvipdf"] 1637998422 "SoP.dvi" "SoP.pdf" "SoP" 1637998424
+  "SoP.dvi" 1637998422 7796 dedbc387b4925b19ed9f51574988d1de "latex"
   (generated)
   "SoP.pdf"
-["latex"] 1637997256 "SoP.tex" "SoP.dvi" "SoP" 1637997261
-  "SoP.aux" 1637997259 32 044b7f8fc9779af7531264e0c5c84b6d "latex"
-  "SoP.tex" 1637997252 6572 8f2850ccdf7ed38e072eb199c1414860 ""
+["latex"] 1637998419 "SoP.tex" "SoP.dvi" "SoP" 1637998424
+  "SoP.aux" 1637998422 268 9022035d6c84641519f0877f225ecebe "latex"
+  "SoP.tex" 1637998414 6618 96699c326bc4634b74ce817c4e2dbe72 ""
   "c:/w32tex/share/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1519818042 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1519818042 1196 1be730212205a270378fba11a44765dc ""
+  "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1519818042 856 7404843a5f798859944d7973a47821d5 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1519818042 856 39c171483fe1bb7d0e1368980c0c205b ""
+  "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -30,6 +34,6 @@
   "c:/w32tex/share/texmf-dist/web2c/eptex/platex.fmt" 1616638296 2717141 f9bc1297a54f8691f224ad9b4cfed37f ""
   "c:/w32tex/share/texmf-dist/web2c/texmf.cnf" 1616456562 36800 18728b2d981a60d248b22f7103aa990e ""
   (generated)
+  "SoP.log"
   "SoP.aux"
   "SoP.dvi"
-  "SoP.log"
