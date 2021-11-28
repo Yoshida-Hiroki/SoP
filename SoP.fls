@@ -100,6 +100,5 @@ INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT SoP.dvi
 INPUT SoP.aux
