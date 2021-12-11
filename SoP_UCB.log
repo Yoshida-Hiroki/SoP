@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.sjis) (TeX Live 2021/W32TeX) (preloaded format=platex 2021.3.25)  11 DEC 2021 12:13
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.sjis) (TeX Live 2021/W32TeX) (preloaded format=platex 2021.3.25)  11 DEC 2021 12:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**SoP.tex
-(./SoP.tex
+**SoP_UCB.tex
+(./SoP_UCB.tex
 pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
 L3 programming layer <2021-02-18> (c:/w32tex/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -58,8 +58,8 @@ File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [a4].
 
-(./SoP.aux)
-\openout1 = `SoP.aux'.
+(./SoP_UCB.aux)
+\openout1 = `SoP_UCB.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -130,14 +130,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 13.
 [1
 
-] [2] (./SoP.aux) ) 
+] [2] (./SoP_UCB.aux) ) 
 Here is how much of TeX's memory you used:
  973 strings out of 479466
- 15478 string characters out of 5867386
- 325242 words of memory out of 5000000
+ 15518 string characters out of 5867386
+ 325254 words of memory out of 5000000
  18723 multiletter control sequences out of 15000+600000
  412330 words of font info for 62 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 68i,6n,74p,1656b,229s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 68i,6n,74p,1660b,229s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on SoP.dvi (2 pages, 8400 bytes).
+Output written on SoP_UCB.dvi (2 pages, 8392 bytes).
